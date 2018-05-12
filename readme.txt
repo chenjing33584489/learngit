@@ -4,3 +4,4 @@ Git has a mutable called stage.
 nihao
 Git tracks changes.
 Git tracks changes..
+My stupid boss still prefer SVN
