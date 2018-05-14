@@ -8,3 +8,4 @@ My stupid boss still prefer SVN
 try
 Create a new branch is quick
 Create a new branch is quick & simple
+Creating a new branch is quick and simple
