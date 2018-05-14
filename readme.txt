@@ -9,5 +9,10 @@ try
 Create a new branch is quick
 Create a new branch is quick and simple
 Create a new branch is quick and simple
-2
+<<<<<<< HEAD
+12
 
+======= 
+
+1
+>>>>>>> featurel
