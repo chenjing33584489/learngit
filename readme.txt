@@ -9,4 +9,8 @@ try
 Create a new branch is quick
 Create a new branch is quick and simple
 Create a new branch is quick and simple
+<<<<<<< HEAD
 fixed bug by issue-101
+=======
+try bug 1
+>>>>>>> dev
